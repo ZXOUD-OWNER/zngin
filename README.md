@@ -6,6 +6,8 @@
 
 Zngin (also known as Z Engine) is an open-source project aimed at providing a streamlined solution for rapid cluster deployment of distributed systems. By installing Zngin, users gain access to various components and middleware under the Z series, facilitating efficient cluster deployments.
 
+https://www.zxoud.com/zngin
+
 ## Features
 
 - **Cluster Deployment**: Zngin simplifies the process of setting up and managing clusters for distributed systems, reducing deployment complexities.
@@ -42,7 +44,7 @@ We welcome contributions in all forms! If you have any suggestions, bug reports,
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For issues, suggestions, and feedback, please open an issue on GitHub.
